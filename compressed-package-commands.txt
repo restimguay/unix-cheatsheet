@@ -2,7 +2,7 @@ tar -xvf : to uncompress or extract
   example
     tar -xvf <package>.tar.gz
     tar -xvf <package>.tar
-tar -cvf : to compress
+tar -cvf : to compress the folder/file
   example
     tar -cvf <package>.tar.gz <target_path_or_file>
     tar -cvf <package>.tar <target_path_or_file>
