@@ -1,0 +1,12 @@
+The command ‘uname‘ displays the information about the system.
+uname
+Options:
+-a : It prints all the system information in the following order: Kernel name, network node hostname, kernel release date, kernel version, machine hardware name, hardware platform, operating system
+uname -a
+  result: Linux <hostname> 3.10.0-1062.el7.x86_64 #1 SMP Thu Jul 18 20:25:13 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+-s : It prints the kernel name.
+uname -s
+  result: Linux
+-n : It prints the hostname of the network node(current computer)
+uname -n
+  result: <hostname>
