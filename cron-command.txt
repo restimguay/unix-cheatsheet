@@ -1,0 +1,6 @@
+/var/adm/cron - stores all the history of crontab
+
+crontab -r to clear
+crontab <filename> to load from file
+crontab -l to show
+crontab -e to edit
