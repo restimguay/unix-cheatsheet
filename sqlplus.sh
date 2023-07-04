@@ -1,4 +1,4 @@
-sqlplus username/password
+
 #to login
 sqlplus username/password
 
