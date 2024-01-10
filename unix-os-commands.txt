@@ -10,3 +10,9 @@ uname -s
 -n : It prints the hostname of the network node(current computer)
 uname -n
   result: <hostname>
+
+Display the folder size under the current directory
+du - h
+
+Display users disk space allocation and percent usage
+du -a
